@@ -4,7 +4,7 @@
 // @description  Safer injector + diagnostic helpers to diagnose site issues (mutation logs, quiet-period gating, start/stop, click-once)
 // @author       Evanito + RobThePCGuy
 // @match        https://learn.zybooks.com/zybook/*
-// @namespace    https://github.com/Evanito/zyBAuto
+// @namespace    https://github.com/RobThePCGuy/zyBooks-Autocomplete
 // @run-at       document-idle
 // ==/UserScript==
 //
