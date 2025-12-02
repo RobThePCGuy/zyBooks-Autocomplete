@@ -23,9 +23,9 @@ Important: use this tool only in accordance with your institution's academic int
 2. Install the script:
    - Option A — Install directly from the raw file:
      - Open the userscript manager and choose the "Install" option or click the raw userscript URL for your browser.
-     - Raw URL pattern (example):  
-       https://raw.githubusercontent.com/RobThePCGuy/zyBooks-Autocomplete/main/zyBAuto.user.js
-     - If you prefer a specific commit or tag, replace `main` with the commit SHA or tag name.
+     - Raw URL:  
+       [Click Me](https://github.com/RobThePCGuy/zyBooks-Autocomplete/raw/refs/heads/master/zyBAuto.user.js)
+     - If you prefer a specific commit or tag, replace `master` with the commit SHA or tag name.
    - Option B — Manual:
      - Download the userscript file (zyBAuto.user.js) from this repository and open it in the userscript manager to install.
 
